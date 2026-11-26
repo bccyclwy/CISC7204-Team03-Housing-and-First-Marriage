@@ -1,0 +1,8 @@
+七项交付入口：
+1 README.md + requirements.txt
+2 data/ + research/数据字典和来源登记
+3 Housing_Marriage_Analysis.ipynb
+4 docs/CODE_MANUAL.md + analysis/
+5 reports/ + outputs_v2/ + docs/VISUAL_GUIDE.md
+6 此完整项目目录及对应ZIP
+7 公共GitHub仓库：https://github.com/bccyclwy/CISC7204-Team03-Housing-and-First-Marriage（另见GitHub_URL.txt）

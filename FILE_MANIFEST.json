@@ -1,0 +1,387 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 75,
+    "sha256": "feb87d73cc1488fcf13440be09ddefde167fb0e8ce614271ebb851b8707f0993"
+  },
+  {
+    "path": "DELIVERABLES.txt",
+    "bytes": 372,
+    "sha256": "48f99bcf31528ce57c9b5e72ea438cc2da571ec9dc5c54f5aa767cbf071b60d0"
+  },
+  {
+    "path": "GitHub_URL.txt",
+    "bytes": 71,
+    "sha256": "f083476ad411d9c1ce33e94aba45ed6ecb95aa5b6736815dcb9993af2498c674"
+  },
+  {
+    "path": "Housing_Marriage_Analysis.ipynb",
+    "bytes": 3031021,
+    "sha256": "ce21ed9025501cb20de81dd4e38c8ebef15d34d389e37016a8a7b581b20c1e46"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4970,
+    "sha256": "65eeef85896cf8ea14c64856517be3deabbd276297510ef64fc8631ac2ce1b12"
+  },
+  {
+    "path": "SUBMISSION_CHECK.json",
+    "bytes": 1049,
+    "sha256": "dd4adaaece187b42bc109cedb1edf26fb790ea1bd5654afcb389469e93843b1d"
+  },
+  {
+    "path": "analysis/build_report_v2.py",
+    "bytes": 25434,
+    "sha256": "b0e3aca7258b2edb57969c5c9507360a00b703d3600fcbc4b62232e343956b01"
+  },
+  {
+    "path": "analysis/run_analysis_v2.py",
+    "bytes": 26096,
+    "sha256": "4a3d7af4bf01be7e37923b442da53b47cbb6b97cee5c48d867595791a1c8cedd"
+  },
+  {
+    "path": "analysis/validate_v2.py",
+    "bytes": 4957,
+    "sha256": "0127d79df8c77070ed9f0ee0ac3524fa92e4bc77842fcc98d47fbd3e8a3a9656"
+  },
+  {
+    "path": "data/README.md",
+    "bytes": 2246,
+    "sha256": "b82569c087e710358391c066d67f37a56ab544f56285cabf4363db764be4c320"
+  },
+  {
+    "path": "data/processed/annual_1997_2025_v2.csv",
+    "bytes": 6777,
+    "sha256": "eea7d0f55367528e76810d0068f6e2fca632a7b7363c1076682627b719726725"
+  },
+  {
+    "path": "data/raw/115-01011.json",
+    "bytes": 467777,
+    "sha256": "1a281e7e2841f0c392f0af2bd4eb44d8dc93fa17b2609a0dbe164bd7d954be17"
+  },
+  {
+    "path": "data/raw/115-01013.json",
+    "bytes": 246140,
+    "sha256": "57d6457ec698e10baf8b815ee7ee9e973cbf8ddcd53a3ca62d929219abf4aac7"
+  },
+  {
+    "path": "data/raw/rvd_price_indices.xls",
+    "bytes": 296960,
+    "sha256": "f772e0809080192e4ee2ddc3d8d6c95b6cdf5abed9747a8a5c58910662a58d8b"
+  },
+  {
+    "path": "data/variable_dictionary.csv",
+    "bytes": 2194,
+    "sha256": "a6dcbaa8a99c4d153e7be4b96d03113a73204c02a4727af08b6237678154974d"
+  },
+  {
+    "path": "docs/CODE_MANUAL.md",
+    "bytes": 3893,
+    "sha256": "4c375678cb9b776a858257a2d7f5471e2b276585af74cfc75c1917688f756959"
+  },
+  {
+    "path": "docs/TESTED_ENVIRONMENT_FREEZE.txt",
+    "bytes": 2012,
+    "sha256": "c318c3a394ea253ed58c9c94da2255eb05eda2c9214e508729a0d0e4142462e6"
+  },
+  {
+    "path": "docs/VISUAL_GUIDE.md",
+    "bytes": 1977,
+    "sha256": "34d63a9888161734f37801a25266c2129e94e0a55a9992a04633196bbee3b781"
+  },
+  {
+    "path": "outputs_v2/annual_analysis_data.csv",
+    "bytes": 5939,
+    "sha256": "7def7b1c4a74427cf7af355350517f364a24d50c5d95fcfc76c797bef4eff9e7"
+  },
+  {
+    "path": "outputs_v2/appendix/A01_stationarity.csv",
+    "bytes": 9260,
+    "sha256": "defd526ce3b8fa8bfce0100d0a1f51d6f1117e3fd741f445aab7bc4158a252ef"
+  },
+  {
+    "path": "outputs_v2/appendix/A02_change_series_acf.png",
+    "bytes": 100876,
+    "sha256": "9bcb1e86fa02fdcef73f05ab988ff5016afd711a3a095a7e68594c0a9b92f815"
+  },
+  {
+    "path": "outputs_v2/appendix/A02_change_series_acf.svg",
+    "bytes": 25119,
+    "sha256": "40c8a8c70abdc3aca6c3141bcae8a7df0a543b6596f03ad4a34ba33949704227"
+  },
+  {
+    "path": "outputs_v2/appendix/A03_age_share_associations.png",
+    "bytes": 96478,
+    "sha256": "2b353b87a23d70c0c8066eeb4ba54f2a3e96db84f756502b564df7b7f3d020e2"
+  },
+  {
+    "path": "outputs_v2/appendix/A03_age_share_associations.svg",
+    "bytes": 18975,
+    "sha256": "b4c306ef4a99294d140a660ccef4787728029502677ad0f8d94a5a095fae7b4e"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_female_lag1.png",
+    "bytes": 159378,
+    "sha256": "88368ea0042e1c7bab09b8db74ac2901fa9b3103f56d82e36aea95bb4347b0e9"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_female_lag1.svg",
+    "bytes": 36059,
+    "sha256": "267959063d84175c1f1e7c483303c97f4e1ce8dc50be5e6cb697a7a3f471783c"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_female_same_year.png",
+    "bytes": 157743,
+    "sha256": "36844cbef7f455b98f7ca0efd82477cbaf5894f9a6c13c2e775f06dd820fa10e"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_female_same_year.svg",
+    "bytes": 36072,
+    "sha256": "3d9b0357994ef528885fd3d61d1ca9c0cf5fca75cbd30adcfbd4ebed8843e488"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_male_lag1.png",
+    "bytes": 157363,
+    "sha256": "befb55594511a92c4ac17593c707b31e505937931893a30a35c73041b98dfd5d"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_male_lag1.svg",
+    "bytes": 37240,
+    "sha256": "009141c952387dde434cf49e5143f370391a84a27426f0682ea93a56e082c644"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_male_same_year.png",
+    "bytes": 158661,
+    "sha256": "f1de78019e5fe867db28c5e3fce5e722d711806693251757fa469e0dc74a0a33"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_diagnostics_male_same_year.svg",
+    "bytes": 35668,
+    "sha256": "c0985e05e9d78bc963bba95bbd305282b17e2456c27ce383a3b58bb7ecee09af"
+  },
+  {
+    "path": "outputs_v2/appendix/A04_regression_diagnostics.csv",
+    "bytes": 1601,
+    "sha256": "fee18274be99568da5b871ae6a32e76612d6088e1a8fee7523ea7b3da9748b81"
+  },
+  {
+    "path": "outputs_v2/appendix/A05_observation_influence.csv",
+    "bytes": 28203,
+    "sha256": "6001afa14725fffe3ba6356030d891fe109437482f2e3502b3d93647c4d4560f"
+  },
+  {
+    "path": "outputs_v2/appendix/A06_leave_one_year_out.csv",
+    "bytes": 148160,
+    "sha256": "61ecc26350fed7ea664d1b730c9b120e01860248c377e51f2416d7f748f1ad26"
+  },
+  {
+    "path": "outputs_v2/appendix/A07_circular_block_bootstrap.csv",
+    "bytes": 1115,
+    "sha256": "ac18c8969d0d768f0029bbebd77e33c9ddd378e0ff159af38728f6c3f329b57c"
+  },
+  {
+    "path": "outputs_v2/appendix/data_checks.json",
+    "bytes": 346,
+    "sha256": "5fc375620bc5f872baae3cd47b76f394959eb09444eb234e0932a8f5ed17d26b"
+  },
+  {
+    "path": "outputs_v2/appendix/environment_versions.json",
+    "bytes": 234,
+    "sha256": "a204d34f60fc62d398545d2389eb053be89a7dc95239ae221a9ebdc3ffc4a876"
+  },
+  {
+    "path": "outputs_v2/appendix/validation_summary.json",
+    "bytes": 671,
+    "sha256": "90877d32da51603a372a34b9c98c83ab67b04e9d3e3230ea5c1ecab905824967"
+  },
+  {
+    "path": "outputs_v2/figures/01_long_term_trends.png",
+    "bytes": 170553,
+    "sha256": "4cf7860cb30bb872765b576b8b0916d52312d4a5beb1641910b94eb38eb2f591"
+  },
+  {
+    "path": "outputs_v2/figures/01_long_term_trends.svg",
+    "bytes": 21101,
+    "sha256": "4a6cc09781fa1716d3ef29b2df37299b3166914ae6f233fd5b26bc0aec3ff550"
+  },
+  {
+    "path": "outputs_v2/figures/02_annual_changes.png",
+    "bytes": 184743,
+    "sha256": "b1f0b2651c05898c6b5c018002985917eebcd9ef0cc9e041954b3637601f44db"
+  },
+  {
+    "path": "outputs_v2/figures/02_annual_changes.svg",
+    "bytes": 32666,
+    "sha256": "38754e0713220685c9579c76bce6c146ccbe283a17a3faa5e88a78266a68417f"
+  },
+  {
+    "path": "outputs_v2/figures/03_age_group_shares.png",
+    "bytes": 158122,
+    "sha256": "f71f3b7de54dadb94269ee844d16566f8d3c76ecc80db0c15f830af87180cd11"
+  },
+  {
+    "path": "outputs_v2/figures/03_age_group_shares.svg",
+    "bytes": 20786,
+    "sha256": "2cf89639d3ab2d3c2070b9134c745f7060e0bafdab5136737e1f2e1c81842862"
+  },
+  {
+    "path": "outputs_v2/figures/04_gender_age_gap.png",
+    "bytes": 83350,
+    "sha256": "afe3e58676ef2fbcd8b11a1124d0a29b857dd6ddbd25f064df089cac3a09d4de"
+  },
+  {
+    "path": "outputs_v2/figures/04_gender_age_gap.svg",
+    "bytes": 10572,
+    "sha256": "5659a895e7bdd934a301bf9fff0bceeb17675bed7507037d0bb4753e2ff80520"
+  },
+  {
+    "path": "outputs_v2/figures/05_same_year_scatter.png",
+    "bytes": 159912,
+    "sha256": "98799074ef28d8295c3f0207209c768bb9dca253eb10c13046349b5dade70e5e"
+  },
+  {
+    "path": "outputs_v2/figures/05_same_year_scatter.svg",
+    "bytes": 32726,
+    "sha256": "4f16db50389dab8cc65c1381b9c1333c8d3b80164ea6ea9276245f15e5cc7cb3"
+  },
+  {
+    "path": "outputs_v2/figures/06_lagged_scatter.png",
+    "bytes": 163167,
+    "sha256": "828ef12b1d36a70b9d152d1b5f62a9546810701dd70b0dccc2db997458860e8e"
+  },
+  {
+    "path": "outputs_v2/figures/06_lagged_scatter.svg",
+    "bytes": 32778,
+    "sha256": "0a4c1cf49a3471cec9061b379457575b54f4534e999a52a04070d7156cbf848f"
+  },
+  {
+    "path": "outputs_v2/figures/07_regression_effect_sizes.png",
+    "bytes": 89534,
+    "sha256": "aec8947dbb98e8332d2ba59ec126e50944c3716f05df4505143e21201eb55977"
+  },
+  {
+    "path": "outputs_v2/figures/07_regression_effect_sizes.svg",
+    "bytes": 12668,
+    "sha256": "ae78e7a4b84b7b8f0a471bc7297e5706ae67ae0d41e3b0c24f6c2a50588dc7f0"
+  },
+  {
+    "path": "outputs_v2/figures/08_sensitivity_comparison.png",
+    "bytes": 139549,
+    "sha256": "2b52787a5ea09c602e07d407f0b5e88a0a859f248410b7ce2fd32fdf69d6a06d"
+  },
+  {
+    "path": "outputs_v2/figures/08_sensitivity_comparison.svg",
+    "bytes": 36112,
+    "sha256": "bfebf3e4683fff9044826c606abf6e38df81ec146ca560214d6fb523719838f6"
+  },
+  {
+    "path": "outputs_v2/figures/09_window_comparison.png",
+    "bytes": 178363,
+    "sha256": "da15f6c95b81e8d91a177a67cb0152e3a42240d86d33edc65dcd3421f3e62613"
+  },
+  {
+    "path": "outputs_v2/figures/09_window_comparison.svg",
+    "bytes": 26793,
+    "sha256": "a73e4808875b5f19da50cfa5ace10c80b88b3d455d27e3f3a7d08a72a48c8538"
+  },
+  {
+    "path": "outputs_v2/tables/01_descriptive_statistics.csv",
+    "bytes": 1254,
+    "sha256": "09e90ccfdf4e258f092b25d729041096c9d46f2654ec84cc948553df9ea75a29"
+  },
+  {
+    "path": "outputs_v2/tables/02_levels_vs_changes.csv",
+    "bytes": 104,
+    "sha256": "90f7770d1a55f9e3225dc3a8e45cb2d1088dbe2eb1c277f253a1e8231b08199c"
+  },
+  {
+    "path": "outputs_v2/tables/03_age_share_crossings.csv",
+    "bytes": 104,
+    "sha256": "12a02873c3e35c2da5bf3992d0eb27f77ce70b07e4128558e9eeecab18c3eadb"
+  },
+  {
+    "path": "outputs_v2/tables/03_gender_slope_difference_exploratory.csv",
+    "bytes": 1294,
+    "sha256": "874ba040a11f201258feea3c6b54941f83e5b075a8ef5b7aeabc86a488a2e4ef"
+  },
+  {
+    "path": "outputs_v2/tables/04_05_associations_and_hac_regressions.csv",
+    "bytes": 5807,
+    "sha256": "823cce8dca0ae4d022133930308fbcefd85f1a4dad8dda3b582ee3e4807e479d"
+  },
+  {
+    "path": "outputs_v2/tables/06_leave_one_year_out_summary.csv",
+    "bytes": 1498,
+    "sha256": "1ffe7d34dcfa9f5f6f9d1922090cb61395f126a2679cb6f64c3fe009ebf56556"
+  },
+  {
+    "path": "outputs_v2/tables/06_sensitivity_comparisons.csv",
+    "bytes": 41388,
+    "sha256": "aebfabf26d3177ec0947e510b07f252370f9aadba726495270c903d63f528461"
+  },
+  {
+    "path": "outputs_v2/分析结果报告_v2.html",
+    "bytes": 1601098,
+    "sha256": "c4c4862b4554153e20f8702d4cf084b4a249e9d97acdb5c364fe580bb44b8199"
+  },
+  {
+    "path": "outputs_v2/分析结果报告_v2.md",
+    "bytes": 12235,
+    "sha256": "f074c3493eb134fb22fef72ddef603750f8966d3733180a5f35b0a2163fe7919"
+  },
+  {
+    "path": "outputs_v2/汇报版_六步主线.html",
+    "bytes": 1113214,
+    "sha256": "4bbe0f1213e43272c3d8cbaaf838687020ff2029198fd884c7d3ddf80f288ed4"
+  },
+  {
+    "path": "outputs_v2/汇报版_六步主线.md",
+    "bytes": 3793,
+    "sha256": "888718fded58979b3733ccf803aca675b3fdb6a2492d88150b5ba1a386965e49"
+  },
+  {
+    "path": "outputs_v2/汇报问答与表述边界.md",
+    "bytes": 3240,
+    "sha256": "19de464ce9acbdeed22dc71b7f483b514016d489dbf307704440fbc2e7e3b1dc"
+  },
+  {
+    "path": "reports/Full_Analysis_Report_V2.pdf",
+    "bytes": 2414495,
+    "sha256": "74b5045e7625d6b64ed3fc056936fc9e0187480bd06fab83e8de79c2c389907d"
+  },
+  {
+    "path": "reports/Notebook_Reading_Copy.html",
+    "bytes": 3405868,
+    "sha256": "8e5d93855d6c6b74892301e6626dc39c70d39d38653c660fc36e6f1306c69c40"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 164,
+    "sha256": "91ac40b4a054a1d410276f0d1acc3e693310780e0bb48f1dfdf84cd258179fbd"
+  },
+  {
+    "path": "requirements_original.txt",
+    "bytes": 141,
+    "sha256": "84ae4c2ed4ef7462162794afa2d7e2fc68b62174842da9c655c9d9163e9ba3ed"
+  },
+  {
+    "path": "research/prepare_data_v2.py",
+    "bytes": 5267,
+    "sha256": "61a527130e6a4069e0257a136401ba94a0efb010935b4125af2cad6237bb01fa"
+  },
+  {
+    "path": "research/rvd_price_indices.xlsx",
+    "bytes": 97967,
+    "sha256": "da862c5035d2ab50132cef58b1382ceaa4ec0cf41e1c06de023ce67e6ea036c0"
+  },
+  {
+    "path": "research/source_register_v2.json",
+    "bytes": 1659,
+    "sha256": "a8c2c2f0c0fa5e07747e1d1b7edaab0e325e965e836cb6721ff9b4bb37d2f4e5"
+  },
+  {
+    "path": "research/variable_dictionary_v2.csv",
+    "bytes": 1929,
+    "sha256": "00039628e4a6ddd2b6a5c1fd6893a1fe36de4f26d864d20d52d3dda60755088a"
+  }
+]
